@@ -1,0 +1,18 @@
+### 查询全部
+GET localhost:82/user
+
+### 插入数据
+POST localhost:82/user
+
+### 根据ID查询
+GET localhost:82/user/1
+
+### 根据ID删除
+DELETE localhost:82/user/15
+
+### 更新
+PUT localhost:82/user
+
+### 分页查询
+GET localhost:82/user/1/1
+
